@@ -1,2 +1,3 @@
 # typedef_struct
-structure with typedef
+
+Abstract Data Type (ADT) structure. Includes typedef, array, and pointer
