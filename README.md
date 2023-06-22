@@ -1,3 +1,3 @@
-# typedef_struct
+# abstract_data_type
 
-Abstract Data Type (ADT) structure. Includes typedef, array, and pointer
+Abstract Data Type (ADT) structure. Includes typedef, array, and pointer.
