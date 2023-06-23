@@ -16,7 +16,7 @@ int main()
     spdh *pinfo;
     pinfo=&info;
 
-    strcpy(pinfo->merk, "Polygon")
+    strcpy(pinfo->merk, "Polygon");
     pinfo->type = "Sepeda Gunung";
     pinfo->tahun = 2013;
     pinfo->harga = "2.000.000";
